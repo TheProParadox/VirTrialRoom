@@ -29,6 +29,7 @@ The Interactive Virtual Fashion Trial Room is an advanced image-based virtual tr
 
 ### Start:
 1. **(Week 1-3) Literature Review and Capability Assessment:**
+   - A skeleton code is given containing a model following the UNet architecture for the task of semantic segmentation. The dataset is composed of images of people in outfits, with the masks being the outfits they're wearing, The dataset was obtained from Kaggle.
    - Review recent papers on virtual try-on systems [List of papers](https://github.com/minar09/awesome-virtual-try-on?tab=readme-ov-file#Datasets-for-Virtual-Try-on)
    - Analyze 2D vs 3D approaches and their trade-offs according to time, resources
    - Identify key features and capabilities for our system
