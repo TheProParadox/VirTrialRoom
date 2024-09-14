@@ -29,7 +29,7 @@ The Interactive Virtual Fashion Trial Room is an advanced image-based virtual tr
 
 ### Start:
 1. **(Week 1-3) Literature Review and Capability Assessment:**
-   a. Review recent papers on virtual try-on systems [List of papers]
-   b. Analyze 2D vs 3D approaches and their trade-offs according to time, resources
-   c. Identify key features and capabilities for our system
-   d. Decide on primary approach (2D, 3D, or hybrid) based on review.
+   - Review recent papers on virtual try-on systems [List of papers](https://github.com/minar09/awesome-virtual-try-on?tab=readme-ov-file#Datasets-for-Virtual-Try-on)
+   - Analyze 2D vs 3D approaches and their trade-offs according to time, resources
+   - Identify key features and capabilities for our system
+   - Decide on primary approach (2D, 3D, or hybrid) based on review.
